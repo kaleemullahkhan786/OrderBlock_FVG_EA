@@ -209,8 +209,7 @@ EA Status: RUNNING
 This EA brings **institutional trading strategies** to your MT5 platform. Don't miss out on the **smart money opportunities**.
 
 ### **📧 Contact Information:**
-- **Email**: contact@yourcompany.com
-- **Website**: www.yourcompany.com
+- **Email**: kaleemullahchanna786@gmail.com
 - **Support**: Professional technical support
 - **Updates**: Regular EA improvements
 
