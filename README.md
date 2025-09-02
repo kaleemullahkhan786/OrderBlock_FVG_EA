@@ -212,18 +212,11 @@ This EA brings **institutional trading strategies** to your MT5 platform. Don't 
 - **Email**: kaleemullahchanna786@gmail.com
 - **Support**: Professional technical support
 - **Updates**: Regular EA improvements
-
-### **💳 Pricing:**
-- **Professional License**: $XXX (one-time)
-- **Commercial License**: $XXX (one-time)
-- **Custom Modifications**: Available
-- **Support Package**: Included
-
 ---
 
 ## 📄 **License Information**
 
-**© 2024 Your Company Name. All rights reserved.**
+**© 2025 Kaleemullah Khan. All rights reserved.**
 
 This EA is **commercial software**. Unauthorized distribution or use is prohibited.
 
