@@ -186,20 +186,6 @@ Trading: ENABLED
 EA Status: RUNNING
 ```
 
-## ⚠️ **Important Disclaimers**
-
-### **📋 Risk Warning:**
-- **Educational Purpose**: This EA is for educational purposes
-- **No Guarantees**: Past performance doesn't guarantee future results
-- **Demo Testing**: Always test on demo before live trading
-- **Risk Management**: Never risk more than you can afford to lose
-
-### **🔒 Professional Use:**
-- **Commercial License**: Required for commercial use
-- **Support**: Professional support available
-- **Updates**: Regular updates and improvements
-- **Customization**: Custom modifications available
-
 ## 🚀 **Why Choose Our EA?**
 
 ### **🏆 Professional Advantages:**
